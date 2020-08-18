@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- 🔭 I’m currently working on making an open source petition system available for my University so that it can help the Students Body organise their priorities and give students a voice.
- 🌱 I’m currently learning more about Docker which I've been using and incorporating into all of my projects. I am also experimenting with React.  
- 📫 How to reach me: mcnabola@protonmail.com // is this going to end up on lots of spam lists :/ 
- ⚡ Fun fact: This year I was president of the UL Computer Society. We had an amazing year finishing it off by winning the Best Society in the University. I myself was shortlisted for best society individual. 
+- 🔭 I’m currently working on making an open source petition system available for my University so that it can help the Students Body organise their priorities and give students a voice.
+- 🌱 I’m currently learning more about Docker which I've been using and incorporating into all of my projects. I am also experimenting with React.  
+- 📫 How to reach me: mcnabola@protonmail.com // is this going to end up on lots of spam lists :/ 
+- ⚡ Fun fact: This year I was president of the UL Computer Society. We had an amazing year finishing it off by winning the Best Society in the University. I myself was shortlisted for best society individual. 
